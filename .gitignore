@@ -10,3 +10,9 @@ Orchid.tgz
 scraping/
 orchid/.ipynb_checkpoints/
 noken/.ipynb_checkpoints/
+orchid/fc_sequence/model*
+orchid/refined_images_orchid/
+orchid/sensor_data/
+auto/
+orchid/fc_sequence_cp1/
+orchid/fc_sequence_cp2/
