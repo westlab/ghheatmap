@@ -16,3 +16,5 @@ orchid/sensor_data/
 auto/
 orchid/fc_sequence_cp1/
 orchid/fc_sequence_cp2/
+noken/fc_sequence?/
+orchid/fc_sequence?/
